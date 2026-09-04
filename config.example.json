@@ -1,0 +1,10 @@
+{
+    "PrivateKey": "SGVsbG8gd29ybGQgLSDvv73RgtC+INC90LUg0LrQu9GO0YchIQ==",
+    "Address": "10.0.0.2/24",
+    "Peer": {
+        "PublicKey": "b3RoZXJfcGVlcl9wdWJsaWNfa2V5X2Jhc2U2NF9oZXJl==",
+        "Endpoint": "vpn.example.com:51820",
+        "AllowedIPs": ["0.0.0.0/0"],
+        "PresharedKey": null
+    }
+}
